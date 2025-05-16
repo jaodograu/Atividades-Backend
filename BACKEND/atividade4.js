@@ -22,3 +22,4 @@ class Carro{
 let carro = new Carro("Jetta, Preto ");
 //carro.mostrarStatus():
 carro.acelerar(283);
+carro.frear(126);
